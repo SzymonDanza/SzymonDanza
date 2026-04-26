@@ -1,6 +1,6 @@
 # Hi, I'm Szymon 👋
 
-🎓 Biomedical Engineering student
+Computer Science Engineer, currently pursuing a Master's degree in Biomedical Engineering
 
 ## About me
 
@@ -45,13 +45,13 @@ I am currently working on building systems based on cloud solutions, ML, and dat
 
 ## 🔥 Selected projects
 
-### [CSV Analyzer Cloud](https://github.com/[Name]/csv-analyzer-aws)
+### [CSV Analyzer Cloud](https://github.com/SzymonDanza/csv-analyzer-aws)
 A serverless web application on AWS for automatic CSV file analysis.
 
 **Stack:** AWS (S3, Lambda, API Gateway, DynamoDB), Python, HTML/JS  
 **What it does:** the user uploads a file → an event triggers a Lambda function → analysis → JSON report
 
-### [SSH Network Manager](https://github.com/[NAME]/SshNetworkManager)
+### [SSH Network Manager](https://github.com/SzymonDanza/SshNetworkManager)
 A web application for remote computer network management.
 
 **Stack:** Python (Flask, Paramiko), Docker, PostgreSQL, SQLAlchemy, CSS, HTML, SQL, SSH  
@@ -59,5 +59,5 @@ A web application for remote computer network management.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SzymonDanza&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonDanza&layout=compact&theme=default)
