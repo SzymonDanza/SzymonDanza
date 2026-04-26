@@ -41,6 +41,8 @@ I am currently working on building systems based on cloud solutions, ML, and dat
 - **Data Engineering** — pipelines, ETL/ELT
 - **GenAI in practice** — RAG, LLM apps, prompt engineering
 - **AWS Cloud** — serverless, event-driven architecture
+- **Software Engineering** — designing clean, maintainable, and scalable applications
+- **Backend Development** — APIs, databases, authentication, and server-side architecture
 - **Explaining technical concepts** — because good understanding is the first step toward a good solution
 
 ## 🔥 Selected projects
