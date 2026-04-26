@@ -1,15 +1,13 @@
-# Cześć, jestem Szymon 👋
+# Hi, I'm Szymon 👋
 
-🎓 Student informatyki na [TWOJA UCZELNIA] | Pasjonat **data engineering** i **AI**
+🎓 Biomedical Engineering student
 
-## 🚀 O mnie
+## About me
 
-Buduję projekty na styku **danych, chmury i AI** — bo wierzę, że dobrze przetworzone dane to fundament każdej dobrej decyzji biznesowej.
+I am currently working on building systems based on cloud solutions, ML, and databases.
 
-- 🔭 Aktualnie pracuję nad: **CSV Analyzer Cloud** — serverless aplikacja do analizy danych na AWS
-- 🌱 Uczę się: AWS, GenAI (RAG, LangChain), Data Engineering
-- 💼 Doświadczenie: Trener informatyczny — prowadzenie szkoleń z [Z CZEGO?] dla pracowników firm
-- 📫 Kontakt: [TWÓJ EMAIL] | [LINK DO LINKEDIN]
+- 🔭 I’m currently working on: **CSV Analyzer Cloud** — a serverless application for data analysis on AWS | **SSH Network Manager** — an application for remote computer network management.
+- 🌱 I’m learning: AWS, GenAI, Data Engineering
 
 ## 🛠️ Tech stack
 
@@ -25,6 +23,7 @@ Buduję projekty na styku **danych, chmury i AI** — bo wierzę, że dobrze prz
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Paramiko](https://img.shields.io/badge/-Paramiko-013243?style=flat&logo=paramiko&logoColor=white)
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -37,27 +36,28 @@ Buduję projekty na styku **danych, chmury i AI** — bo wierzę, że dobrze prz
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 🎯 Czym się interesuję
+## What I’m interested in
 
-- **Data Engineering** — pipelines, ETL/ELT, hurtownie danych
-- **GenAI w praktyce** — RAG, LLM apps, prompt engineering
+- **Data Engineering** — pipelines, ETL/ELT
+- **GenAI in practice** — RAG, LLM apps, prompt engineering
 - **AWS Cloud** — serverless, event-driven architecture
-- **Tłumaczenie technicznych konceptów** — bo dobre zrozumienie to pierwszy krok do dobrego rozwiązania
+- **Explaining technical concepts** — because good understanding is the first step toward a good solution
 
-## 🔥 Wybrane projekty
+## 🔥 Selected projects
 
-### 📊 [CSV Analyzer Cloud](https://github.com/[TWOJA-NAZWA]/csv-analyzer-aws)
-Serverless aplikacja webowa na AWS do automatycznej analizy plików CSV.
-**Stack:** AWS (S3, Lambda, API Gateway, DynamoDB), Python, HTML/JS
-**Co robi:** użytkownik wrzuca plik → event triggeruje Lambdę → analiza → raport JSON
+### [CSV Analyzer Cloud](https://github.com/[Name]/csv-analyzer-aws)
+A serverless web application on AWS for automatic CSV file analysis.
 
-### [DODAJ KOLEJNE PROJEKTY GDY JE STWORZYSZ]
+**Stack:** AWS (S3, Lambda, API Gateway, DynamoDB), Python, HTML/JS  
+**What it does:** the user uploads a file → an event triggers a Lambda function → analysis → JSON report
 
-## 📈 Statystyki GitHub
+### [SSH Network Manager](https://github.com/[NAME]/SshNetworkManager)
+A web application for remote computer network management.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TWOJA-NAZWA]&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[TWOJA-NAZWA]&layout=compact&theme=default)
+**Stack:** Python (Flask, Paramiko), Docker, PostgreSQL, SQLAlchemy, CSS, HTML, SQL, SSH  
+**What it does:** the user gets an interface that allows them to connect to their computer network and manage it remotely.
 
----
+## 📈 GitHub Stats
 
-⚡ *"Technologia jest dla mnie narzędziem do rozwiązywania problemów, nie celem samym w sobie."*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=default)
