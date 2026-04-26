@@ -51,7 +51,7 @@ A serverless web application on AWS for automatic CSV file analysis.
 **Stack:** AWS (S3, Lambda, API Gateway, DynamoDB), Python, HTML/JS  
 **What it does:** the user uploads a file → an event triggers a Lambda function → analysis → JSON report
 
-### [SSH Network Manager](https://github.com/SzymonDanza/SshNetworkManager)
+### [SSH Network Manager](https://github.com/SzymonDanza/SshNetowrkManager)
 A web application for remote computer network management.
 
 **Stack:** Python (Flask, Paramiko), Docker, PostgreSQL, SQLAlchemy, CSS, HTML, SQL, SSH  
