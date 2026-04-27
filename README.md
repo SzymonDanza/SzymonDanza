@@ -30,6 +30,7 @@ I am currently working on building systems based on cloud solutions, ML, and dat
 ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
 ![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+![APIGateway](https://img.shields.io/badge/-APIGateway-4053D6?style=flat&logo=amazon-apigateway&logoColor=white)
 
 **Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
