@@ -6,10 +6,10 @@ Computer Science Engineer, currently pursuing a Master's degree in Biomedical En
 
 I am currently working on building systems based on cloud solutions, ML, and databases.
 
-- 🔭 I’m currently working on: **CSV Analyzer Cloud** — a serverless application for data analysis on AWS | **SSH Network Manager** — an application for remote computer network management.
-- 🌱 I’m learning: AWS, GenAI, Data Engineering
+-  I’m currently working on: **CSV Analyzer Cloud** — a serverless application for data analysis on AWS | **SSH Network Manager** — an application for remote computer network management.
+-  I’m learning: AWS, GenAI, Data Engineering
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -46,7 +46,7 @@ I am currently working on building systems based on cloud solutions, ML, and dat
 - **Backend Development** — APIs, databases, authentication, and server-side architecture
 - **Explaining technical concepts** — because good understanding is the first step toward a good solution
 
-## 🔥 Selected projects
+## Selected projects
 
 ### [CSV Analyzer Cloud](https://github.com/SzymonDanza/csv-analyzer-aws)
 A serverless web application on AWS for automatic CSV file analysis.
@@ -60,7 +60,7 @@ A web application for remote computer network management.
 **Stack:** Python (Flask, Paramiko), Docker, PostgreSQL, SQLAlchemy, CSS, HTML, SQL, SSH  
 **What it does:** the user gets an interface that allows them to connect to their computer network and manage it remotely.
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SzymonDanza&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonDanza&layout=compact&theme=default)
